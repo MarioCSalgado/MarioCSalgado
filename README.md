@@ -1,10 +1,10 @@
 ## Hola, soy Mario Salgado Orellana 👋
 
-Estudiante de último año de **Ingeniería Civil Informática** en la [Universidad de Concepción](https://www.udec.cl), con los minors en **Data Science** e **Inteligencia Artificial**. Busco **práctica profesional** en ciencia de datos e IA, y también estoy abierto a desarrollo de software.
+Estudiante de último año de **Ingeniería Civil Informática** en la [Universidad de Concepción](https://www.udec.cl), con los minors en **Data Science** e **Inteligencia Artificial**. Busco **práctica profesional** en ciencia de datos e IA, idealmente con continuidad en mi memoria de título, y también estoy abierto a desarrollo de software.
 
 * 🧠 Me interesan el machine learning, el deep learning y la ciencia de datos
 * 🚀 Estoy desarrollando mi startup, [MINETRIA](https://github.com/MarioCSalgado/minetria), en el programa Despega 2026 de GearBox UdeC
-* 💻 Actualmente trabajo como desarrollador freelance
+* 💻 Trabajo como desarrollador freelance part-time, en un proyecto por hitos hasta marzo de 2027
 * 🔬 He trabajado en deep learning generativo, procesamiento de lenguaje natural y LLMs, análisis de datos, búsqueda por similitud en documentos técnicos y robótica en simuladores
 
 ### 📂 Proyectos destacados
