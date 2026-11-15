@@ -20,3 +20,5 @@ Estudiante de último año de **Ingeniería Civil Informática** en la [Universi
 <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,tensorflow,ts,react,fastapi,docker,git&perline=10" alt="Python, SQL (PostgreSQL), scikit-learn, PyTorch, TensorFlow, TypeScript, React, FastAPI, Docker, Git" />
 
 También: pandas, NumPy, Hugging Face, C++ y Three.js.
+
+Metodologías: Scrum y Spec-Driven Development.
