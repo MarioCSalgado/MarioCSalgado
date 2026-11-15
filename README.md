@@ -11,8 +11,10 @@ Estudiante de último año de **Ingeniería Civil Informática** en la [Universi
 
 * **[MINETRIA](https://github.com/MarioCSalgado/minetria)**: estima con machine learning el peso vacío real de los camiones mineros, para que la pesa no cuente como mineral el acero soldado en las tolvas. *Startup en desarrollo.*
 * **[SART](https://github.com/MarioCSalgado/Proyecto-Informatico-SART)**: pronóstico semanal de consultas respiratorias y alertas tempranas para los 33 centros de urgencia del Gran Concepción. *En equipo.*
+* **[Opinión en YouTube con PLN](https://github.com/MarioCSalgado/Tarea1-PLN)**: 1.433 comentarios sobre las protestas en Francia. Comparé un léxico, pysentimiento y LLMs, y probé si la opinión cambió tras los disturbios.
 * **[Degradación de suelo con IA generativa](https://github.com/MarioCSalgado/Proyecto-Generative-Deep-Learning)**: VAE convolucional que detecta daño en plantaciones con imágenes Sentinel-2, validado con los incendios de 2023 en el Biobío.
 * **[Deep learning con pocos datos](https://github.com/MarioCSalgado/Proyecto-Deep-Learning)**: benchmark de CNN, ResNet18, DeiT y ConvNeXt con 500 a 2.000 imágenes. Diseñé el protocolo y el análisis. *En equipo.*
+* **[Percepción de inseguridad en Chile](https://github.com/MarioCSalgado/Proyecto-Analisis-de-Datos)**: análisis de la encuesta ENUSC 2023 (146 mil respuestas) y un modelo de regresión logística. *En equipo.*
 * **[Humanoide con RL](https://github.com/MarioCSalgado/Proyecto-humanoide-para-Aprendizaje-por-Refuerzo)**: agentes PPO, SAC y TD3 que controlan un humanoide en MuJoCo. *En equipo.*
 
 ### 🛠️ Tecnologías
