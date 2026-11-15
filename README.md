@@ -3,8 +3,8 @@
 Estudiante de último año de **Ingeniería Civil Informática** en la [Universidad de Concepción](https://www.udec.cl), con los minors en **Data Science** e **Inteligencia Artificial**. Busco **práctica profesional** en ciencia de datos e IA, y también estoy abierto a desarrollo de software.
 
 * 🧠 Me interesan el machine learning, el deep learning y la ciencia de datos
-* 🚀 Lidero [MINETRIA](https://github.com/MarioCSalgado/minetria), una startup del programa Despega 2026 de GearBox UdeC
-* 💻 Trabajo como desarrollador freelance
+* 🚀 Estoy desarrollando mi startup, [MINETRIA](https://github.com/MarioCSalgado/minetria), en el programa Despega 2026 de GearBox UdeC
+* 💻 Actualmente trabajo como desarrollador freelance
 * 🔬 He trabajado en deep learning generativo, aplicaciones con LLMs, análisis de datos, búsqueda por similitud en documentos técnicos y robótica en simuladores
 
 ### 🔬 Proyectos destacados
